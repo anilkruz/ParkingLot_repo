@@ -1,0 +1,25 @@
+{
+  "floors": [
+    {
+      "floorNo": 1,
+      "slots": [
+        { "id": "F1-S1", "type": "TwoWheeler" },
+        { "id": "F1-S2", "type": "TwoWheeler" },
+        { "id": "F1-S3", "type": "FourWheeler" },
+        { "id": "F1-S4", "type": "FourWheeler" },
+        { "id": "F1-S5", "type": "FourWheeler" }
+      ]
+    },
+    {
+      "floorNo": 2,
+      "slots": [
+        { "id": "F2-S1", "type": "TwoWheeler" },
+        { "id": "F2-S2", "type": "FourWheeler" },
+        { "id": "F2-S3", "type": "FourWheeler" },
+        { "id": "F2-S4", "type": "Heavy" },
+        { "id": "F2-S5", "type": "Heavy" }
+      ]
+    }
+  ]
+}
+
